@@ -1,0 +1,98 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/gold_ingot"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1001
+        },
+        "model": "item/circuitadvanced"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1002
+        },
+        "model": "item/circuitbasic"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1003
+        },
+        "model": "item/circuitelite"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1004
+        },
+        "model": "item/dustbronze"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1005
+        },
+        "model": "item/duststeel"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1006
+        },
+        "model": "item/ingotbronze"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1007
+        },
+        "model": "item/ingotsteel"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1008
+        },
+        "model": "item/ingottin"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1009
+        },
+        "model": "item/motor"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1010
+        },
+        "model": "item/platebronze"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1011
+        },
+        "model": "item/platecopper"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1012
+        },
+        "model": "item/plategold"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1013
+        },
+        "model": "item/plateiron"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1014
+        },
+        "model": "item/platesteel"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1015
+        },
+        "model": "item/platetin"
+      }
+    ]
+  }

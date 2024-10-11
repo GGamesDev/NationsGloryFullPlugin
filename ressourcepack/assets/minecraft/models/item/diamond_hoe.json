@@ -1,0 +1,80 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/diamond_hoe"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1001
+        },
+        "model": "item/rocket_launcher"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1002
+        },
+        "model": "item/repulsive"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1003
+        },
+        "model": "item/conventional"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1004
+        },
+        "model": "item/attractive"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1005
+        },
+        "model": "item/debilitation"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1006
+        },
+        "model": "item/chemical"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1007
+        },
+        "model": "item/fragmentation"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1008
+        },
+        "model": "item/breaching"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1009
+        },
+        "model": "item/sonic"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1010
+        },
+        "model": "item/cluster"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1011
+        },
+        "model": "item/incendiary"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 1012
+        },
+        "model": "item/contagious"
+      }
+    ]
+  }
